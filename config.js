@@ -9,7 +9,7 @@ const chalk = require("chalk")
 
 // Other
 global.thum = fs.readFileSync("./media/image/thumb.jpg")
-global.log0 = fs.readFileSync("./media/image/mans.jpg")
+global.log0 = fs.readFileSync("./media/image/proxima1.jpg")
 global.err4r = fs.readFileSync("./media/image/error.jpg")
 global.owner = ['62881010433146']
 global.rkyt = []
