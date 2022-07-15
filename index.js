@@ -197,7 +197,7 @@ let buttons = [
 let buttonMessage = {
 image: fs.readFileSync("./storage/hasil.jpg"),
 caption: mbc,
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "© Recode By proximaDev ",
 mentions:[num],
 buttons: buttons,
 headerType: 4,
@@ -222,7 +222,7 @@ let buttonMessage = {
 image: log0,
 jpegThumbnail: thum,
 caption: tesgd,
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "©Recode By proximaDev",
 buttons: buttons,
 mentions: [num],
 headerType: 4,
