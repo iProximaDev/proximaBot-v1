@@ -27,7 +27,7 @@ Isi semua yang dibutuhkan di file [`config.js`](https://github.com/ZackMans/Zack
 
 ## Request atau report bug
 
-Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/6283121365947)
+Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/62881010433146)
 
 ## Instalasi On Termux
 
@@ -35,8 +35,13 @@ Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/628
 
 ```bash
 $ pkg update && pkg upgrade
-$ pkg i nodejs && pkg i git && pkg i yarn && pkg i libwebp && pkg i ffmpeg && pkg i imagemagick
-$ git clone https://github.com/ZackMans/ZackBotMans
+$ pkg i nodejs -y
+$ pkg i git -y
+$ pkg i yarn -y
+$ pkg i libwebp -y
+$ pkg i ffmpeg -y
+$ pkg i imagemagick
+$ git clone https://github.com/iProximaDev/proximaBot-v1 
 $ cd ZackBotMans
 $ yarn install && node index.js
 # Scan QR
